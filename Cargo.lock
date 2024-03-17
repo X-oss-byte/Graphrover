@@ -3147,9 +3147,9 @@ checksum = "dd8b5dd2ae5ed71462c540258bedcb51965123ad7e7ccf4b9a8cafaa4a63576d"
 
 [[package]]
 name = "online"
-version = "4.0.1"
+version = "4.0.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "28b1fb38eaf6c33f63feced1355536f223bc2e849cfe50c91ca79ee706f968e1"
+checksum = "644d4b55e7e65885eba895f7958912e86eb04370d858a28779860223a8b5ec43"
 
 [[package]]
 name = "opener"
